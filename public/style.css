@@ -1,0 +1,12 @@
+.chat{
+    background-color: aquamarine;
+    width: 200px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.msg {
+    color:red;
+}
